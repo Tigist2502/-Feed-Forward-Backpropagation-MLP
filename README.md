@@ -19,6 +19,9 @@ Developed a **Feed-Forward Neural Network with Backpropagation** to land a ship 
 - **Programming Language:** Python
 - **Libraries:** NumPy, TensorFlow/Keras (optional), Matplotlib for visualization
 - **Platform:** Jupyter Notebook / Google Colab
+### To run this code:
+1. Place your CSV dataset in the `data/` folder.
+2. Make sure the file name matches `my_dataset.csv`.
 
 ## Results
 - Demonstrated understanding of neural network design, backpropagation
